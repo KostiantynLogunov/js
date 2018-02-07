@@ -83,7 +83,7 @@ function changeLink(element) {
 
 
 //                              cerate & delete element DOM
-function test() {
+/*function test() {
 	var element = document.getElementById('block-1');
 	var link = document.createElement('a');
 	var br = document.createElement('br');
@@ -96,7 +96,10 @@ function test() {
 	if (document.getElementById('block-2')) {
 		document.body.removeChild(document.getElementById('block-2'));
 	}
-}
+}*/
+
+
+
 
 
 
